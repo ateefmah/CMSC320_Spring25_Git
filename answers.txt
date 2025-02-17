@@ -13,3 +13,7 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merge takes all the changes in one branch and merges them into anoher branch in one
 commit while rebase says I want the point at which I branched to move to a new starting point.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more about data science and being able to apply
+the techniques to problems that I am passionate about.
